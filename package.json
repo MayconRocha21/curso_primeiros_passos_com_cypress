@@ -1,0 +1,15 @@
+{
+  "name": "curso_primeiros_passos_com_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Maycon Rocha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  }
+}
