@@ -9,6 +9,10 @@
   "scripts": {
     "test": "cypress open"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayconrocha/curso_primeiros_passos_com_cypress.git"
+  },
   "devDependencies": {
     "cypress": "^15.14.2"
   }
