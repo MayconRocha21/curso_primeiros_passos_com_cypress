@@ -367,4 +367,4 @@ Este projeto foi desenvolvido para fins educacionais no curso da DIO.
 
 ---
 
-**Desenvolvido com ❤️ durante o curso de Cypress na DIO**
+**Desenvolvido por Maycon Rocha durante o curso de Cypress na DIO**
